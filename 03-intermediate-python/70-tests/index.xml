@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tests on The Pythonian RocketShip</title>
+    <title>Tests on Learn Python by Touhidul Alam Seyam</title>
     <link>https://pythonianrocketship.github.io/03-intermediate-python/70-tests/</link>
-    <description>Recent content in Tests on The Pythonian RocketShip</description>
+    <description>Recent content in Tests on Learn Python by Touhidul Alam Seyam</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sun, 10 Mar 2019 19:30:41 -0700</lastBuildDate>
     <atom:link href="https://pythonianrocketship.github.io/03-intermediate-python/70-tests/index.xml" rel="self" type="application/rss+xml" />
     <item>
